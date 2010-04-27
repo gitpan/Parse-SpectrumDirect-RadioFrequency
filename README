@@ -1,13 +1,13 @@
-Parse::SpectrumDirect::RadioFrequency - Parse Industry Canada "Spectrum Direct" radio frequency search results
 
-This module provides a parser for the "Radio Frequency Search" text-format
-output from Industry Canada's Spectrum Direct service. This service provides
-information on the location of RF spectrum licensing, transmitter locations,
-etc.
 
-The service is available at http://www.ic.gc.ca/eic/site/sd-sd.nsf/eng/home
+This archive contains the distribution Parse-SpectrumDirect-RadioFrequency,
+version 0.101:
 
-Copyright 2010 Dave O'Neill, all rights reserved.
+  Parse Industry Canada "Spectrum Direct" radio frequency search output
 
-This program is free software; you can redistribute it and/or modify it under
-the same terms as Perl itself.
+This software is copyright (c) 2010 by Dave O'Neill.
+
+This is free software; you can redistribute it and/or modify it under
+the same terms as perl itself.
+
+

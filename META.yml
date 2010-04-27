@@ -1,25 +1,18 @@
 ---
 abstract: "Parse Industry Canada \"Spectrum Direct\" radio frequency search output"
 author:
-  - 'Dave O''Neill <dmo@dmo.ca>'
+  - "Dave O'Neill <dmo@dmo.ca>"
 build_requires:
-  ExtUtils::MakeMaker: 6.42
   Test::More: 0
 configure_requires:
-  ExtUtils::MakeMaker: 6.42
-distribution_type: module
-generated_by: 'Module::Install version 0.87'
+  ExtUtils::MakeMaker: 6.31
+generated_by: 'Dist::Zilla version 2.101151'
 license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
   version: 1.4
 name: Parse-SpectrumDirect-RadioFrequency
-no_index:
-  directory:
-    - inc
-    - t
+recommends: {}
 requires:
-  perl: 5.8.0
-resources:
-  license: http://dev.perl.org/licenses/
-version: 0.100
+  perl: 5.008
+version: 0.101
